@@ -15,6 +15,6 @@ The design uses Multi-task Convolutional Neural Network (MTCNN) to detect and cr
 trained and a final model is obtained.
 
 
-![image](https://github.com/oliverwangx/Emotion-Recognition-based-on-Deep-Learning/blob/master/Team11_Poster%20(1).png)
+![image](https://github.com/oliverwangx/Emotion-Recognition-based-on-Deep-Learning/blob/master/EmotionRecognization.jpg)
 
 
